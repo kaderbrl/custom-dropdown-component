@@ -19,7 +19,7 @@
 
 ## 💻 Live Demo
 
-Check the live demo here 👉 [Demo]() 
+Check the live demo here 👉 [Demo](https://custom-dropdown-component-kaderbrl.vercel.app/) 
 
 ## 📋 Instructions
 
@@ -73,7 +73,7 @@ const handleSelect = (id: string) => {
 
 ## ⚔️ Customizable  Positions
 <div align="center">
-    <img  src="/public/dropdown-styles.png" alt="Customizable Positions" title="Customizable Positions" />
+    <img  src="/public/dropdown-position.png" alt="Customizable Positions" title="Customizable Positions" />
 </div>
 
 ## 🎨 Customizable Styles
