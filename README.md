@@ -26,7 +26,7 @@ Check the live demo here 👉 [Demo](https://custom-dropdown-component-kaderbrl.
 First clone this repository.
 
 ```shell
-https://github.com/kaderbrl/custom-dropdown-component.git
+git clone https://github.com/kaderbrl/custom-dropdown-component.git
 ```
 
 Install dependencies. Make sure you already have [`node.js`](https://nodejs.org/en/) & [`npm`](https://www.npmjs.com/) installed in your system.
